@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EmpPayServices", "EmpPayServices\EmpPayServices.ssmssqlproj", "{CE2D0E61-F976-435C-9A26-F4814ADDBACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE2D0E61-F976-435C-9A26-F4814ADDBACD}.Default|Default.ActiveCfg = Default
+		{0EEB5C6E-C707-4D3B-B209-0DE538D2F84B}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4951BAA5-CBBA-4D59-B20F-C26E97A18AE8}
+	EndGlobalSection
+EndGlobal
