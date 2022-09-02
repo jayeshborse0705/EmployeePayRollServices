@@ -6,3 +6,6 @@ create table EmpPayRoll
 	salary int,
 	StartDate Date
 );
+Insert into EmpPayRoll values('jayesh', 3000, '2021-12-03')
+Insert into EmpPayRoll values('hansraj', 2500, '2022-05-22')
+Insert into EmpPayRoll values('kapil', 4000, '2021-07-10')
